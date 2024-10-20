@@ -9,7 +9,7 @@
 }
 
 
-.contact-section .slug , .contact-section .cocontact-form{
+.contact-section .text-section , .contact-section .cocontact-form{
     max-width: 50%;
 }
 
@@ -21,7 +21,7 @@
     line-height: 5.2rem;
 }
 
-.contact-section .slug p{
+.contact-section .text-section p{
     font-size: 2.4rem;
     line-height: 1.8;
     color: #8f90a6;
