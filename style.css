@@ -221,6 +221,13 @@ html {
   /* flex-grow: 1; */
 }
 
+.recently-added-card:hover{
+
+  /* box-shadow: 0 0 3rem 10rem black; */
+  box-shadow:  0 0 3rem  rgba(0, 0, 0, 0.2);
+
+}
+
 .property-thumbnail {
   background-image: url(assets/images/recently\ added\ photo.png);
   background-repeat: no-repeat;
